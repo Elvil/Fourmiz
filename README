@@ -1,0 +1,16 @@
+Fourmiz
+
+Project created in 2011 by Amélie Benoit & Romain Chabernaud
+
+Ant colony simulator. 
+
+
+Each ant colony has warriors and workers. 
+
+Warriors fight against other colonies' ant. A warrior fighting a worker will win. A dead ant will release a pheromon cloud to prevent workers from its colony that an enemy is around here. 
+
+The workers are looking for food.
+
+The colored clouds and lines correspond to pheromons. Workers will follow the line to find food and bring it back to their home, and will flee when entered into a pheromon cloud. 
+
+Buttons have been added in a control panel in order to be able to add / remove ants, change the type of background. The button "21 Dec. 2012" correspond to a catastroph : all the ants die, and you can repopulate the game using the button "Add ant".
